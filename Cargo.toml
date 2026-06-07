@@ -1,0 +1,10 @@
+[package]
+name = "numeric-integration"
+version = "0.1.0"
+edition = "2021"
+description = "Numerical integration methods: trapezoidal rule, Simpson's rule, Romberg integration, Gaussian quadrature, and adaptive quadrature"
+license = "MIT OR Apache-2.0"
+keywords = ["integration", "numerical-methods", "quadrature", "simpson", "trapezoidal"]
+categories = ["algorithms", "science", "mathematics"]
+repository = "https://github.com/SuperInstance/numeric-integration-rs"
+readme = "README.md"
